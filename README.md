@@ -19,4 +19,10 @@ The purpose of this project is to showcase Jan Keith's skills, experiences, and 
 
 7. Footer: The footer contains links to social media profiles, a list of frequently asked questions (FAQs), and copyright information.
 
+Credits
+
+Bootstrap 5, 4 - https://getbootstrap.com/
+Boxicons - https://boxicons.com/
+AOS - https://michalsnik.github.io/aos/
+
 
